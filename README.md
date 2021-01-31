@@ -4,7 +4,7 @@ Video Meeting is a video conference website that lets you stay in touch with all
 
 Developed with ReactJS, Node.js, SocketIO.
 
-![Website](https://i.imgur.com/HhZD01o.jpg)
+![Website](https://raw.githubusercontent.com/msikandar/connectify/master/public/connectify.png)
 
 ### Website
 <!-- Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo.com) -->
