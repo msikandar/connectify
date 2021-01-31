@@ -90,7 +90,7 @@ const Home = () => {
           <IconButton
             style={{ color: "black" }}
             onClick={() =>
-              (window.open("https://github.com/0x5eba/Video-Meeting"))
+              (window.open("https://github.com/msikandar/connectify"))
             }
           >
             <GitHubIcon style={{ color: "black", fontSize: 30 }} />
@@ -98,7 +98,7 @@ const Home = () => {
           <IconButton
             style={{ color: "black" }}
             onClick={() =>
-              (window.open("https://github.com/0x5eba/Video-Meeting"))
+              (window.open("https://facebook.com"))
             }
           >
             <FacebookIcon style={{ color: "blue", fontSize: 30 }} />
@@ -106,7 +106,7 @@ const Home = () => {
           <IconButton
             style={{ color: "black" }}
             onClick={() =>
-              (window.open("https://github.com/0x5eba/Video-Meeting"))
+              (window.open("https://youtube.com"))
             }
           >
             <YouTubeIcon style={{ fontSize: 30, color: "#c4302b" }} />
@@ -114,7 +114,7 @@ const Home = () => {
           <IconButton
             style={{ color: "black" }}
             onClick={() =>
-              (window.open("https://github.com/0x5eba/Video-Meeting"))
+              (window.open("https://twitter.com"))
             }
           >
             <TwitterIcon style={{ fontSize: 30, color: "blue" }} />
@@ -122,7 +122,7 @@ const Home = () => {
           <IconButton
             style={{ color: "black" }}
             onClick={() =>
-              (window.open("https://github.com/0x5eba/Video-Meeting"))
+              (window.open("https://instagram.com"))
             }
           >
             <InstagramIcon style={{ fontSize: 30, color: "#E1306C" }} />
