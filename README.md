@@ -7,7 +7,7 @@ Developed with ReactJS, Node.js, SocketIO.
 ![Website](https://raw.githubusercontent.com/msikandar/connectify/master/public/connectify.png)
 
 ### Website
-<!-- Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo.com) -->
+Try Video Meeting here [sikandar-connectify.netlify.app](https://sikandar-connectify.netlify.app/)
 
 
 ### Features
